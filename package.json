@@ -40,9 +40,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/substack/browser-pack.git"
+    "url": "git://github.com/dominictarr/nodepack.git"
   },
-  "homepage": "https://github.com/substack/browser-pack",
+  "homepage": "https://github.com/dominictarr/nodepack",
   "keywords": [
     "browser",
     "bundle",
